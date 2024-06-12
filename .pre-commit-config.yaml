@@ -53,4 +53,4 @@ repos:
         args: [-i]
 
 ci:
-  autofix_prs: false
+  autofix_prs: true
