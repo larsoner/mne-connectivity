@@ -50,6 +50,7 @@ repos:
     rev: v0.23.1
     hooks:
       - id: toml-sort-fix
+        args: [-i]
 
 ci:
   autofix_prs: false
